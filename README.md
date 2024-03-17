@@ -22,6 +22,7 @@ Open the `config.json` file and update the following fields:
 1. Upload the Resource to your Server
 2. Start your FiveM server.
 3. Wait for the resource to be build
+4. If it updated your gamebuild restart the server
 
 The update checker will now check for updates at the interval specified in the configuration file. If updates are available, it will send a notification to your Discord server.
 
