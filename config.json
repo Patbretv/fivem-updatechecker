@@ -1,0 +1,6 @@
+{
+  "ServerCFGPath": "C:/Users/Elipa/Desktop/txData/esx_legacy/server.cfg",
+  "CheckInterval": 5,
+  "ServerPort": 30120,
+  "DiscordWebhook": "https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxx"
+}
